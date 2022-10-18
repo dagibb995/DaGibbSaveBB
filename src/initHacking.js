@@ -1,4 +1,4 @@
-const baseUrl = 'https://raw.githubusercontent.com/dagibb995/BitBurner/new/main/src'
+const baseUrl = 'https://raw.githubusercontent.com/dagibb995/DaGibbSaveBB/main/src'
 const filesToDownload = [
   'common.js',
   'mainHack.js',
