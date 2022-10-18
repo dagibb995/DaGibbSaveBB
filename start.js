@@ -4,7 +4,7 @@ export async function main(ns) {
   }
 
   await ns.wget(
-    `https://raw.githubusercontent.com/dagibb995/BitBurner/new/main/src/initHacking.js?ts=${new Date().getTime()}`,
+    `https://raw.githubusercontent.com/dagibb995/DaGibbSaveBB/main/src/initHacking.js?ts=${new Date().getTime()}`,
     "initHacking.js"
   );
   ns.spawn("initHacking.js", 1);
