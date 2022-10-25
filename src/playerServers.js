@@ -1,5 +1,5 @@
 const settings = {
-  maxPlayerServers: 25,
+  maxPlayerServers: 35,
   gbRamCost: 55000,
   maxGbRam: 1048576,
   minGbRam: 64,
